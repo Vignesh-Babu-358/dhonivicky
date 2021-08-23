@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dhonivicky
+- 👋 Hi, I’m vignesh
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning INFORMATION TECHNOLOGY(3rd YEAR)
 - 💞️ I’m looking to collaborate on ...
